@@ -18,3 +18,6 @@ let myObj={
     age:24
 }
 
+//+++++++++++++++++++++++Memory++++++++++++++++++++++++++
+//Stack(Primitive), Heap(Non-Primitive)
+
